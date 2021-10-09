@@ -25,6 +25,5 @@ Function that attaches book image and book search string? Attaches to what?
 
 STRETCH GOALS:
 
-Style it so it's not hideous
-Considering an image?
+Style it so it's not hideous, considering image addition to styling.
   
